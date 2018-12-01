@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NBench" Version="1.2.2" />
+    <DotNetCliToolReference Include="dotnet-nbench" Version="1.2.2" />
+  </ItemGroup>
+
+</Project>
